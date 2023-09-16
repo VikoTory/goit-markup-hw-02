@@ -144,10 +144,11 @@ ul {
 }
 
 .team-title-list {
+}
+.team-title-item {
   background-color: #ffffff;
 }
-.team-title-item:hover {
-}
+
 .team-title-name {
   color: #2e2f42;
   text-align: center;
